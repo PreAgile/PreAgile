@@ -78,11 +78,10 @@ Here are some ideas to get you started:
  </p>
 <br>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+<br>
+
 ### 📭 Contact Me
 > artstill@naver.com
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
