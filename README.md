@@ -53,3 +53,6 @@ Here are some ideas to get you started:
   <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-informational?style=plastic&logo=Apple&logoColor=white&color=rgb(0,0,0)">
 
 </p>
+
+<img align="center" alt="Harvy's GitHub Stats" src="https://github-readme-stats-jet-omega-66.vercel.app
+/api?username=PreAgile&show_icons=true&hide_border=true" />
