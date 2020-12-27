@@ -55,8 +55,9 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<img align="left" alt="Harvy's GitHub Stats" src="https://github-readme-stats.vercel.app
-/api?username=PreAgile&show_icons=true&hide_border=true&theme=highcontrast" />
+<p>
+<img align="left" alt="Harvy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PreAgile&show_icons=true&theme=radical" />
+ </p>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
