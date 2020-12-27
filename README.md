@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <!-- front-end -->
   <img alt="React" src="https://img.shields.io/badge/-React-informational?style=plastic&logo=React&logoColor=white&color=rgb(97,218,251)">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-informational?style=plastic&logo=Redux&logoColor=white&color=rgb(118,74,188)">
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-informational?style=plastic&logo=Tailwind CSS&logoColor=white&color=rgb(56,178,172)">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white">
   <img alt="styled-components" src="https://img.shields.io/badge/_styled_components-informational?style=plastic&logo=styled-components&logoColor=white&color=rgb(219,112,147)">
    <!-- back-end -->
     <br>
