@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <br>
   <img alt="nodeJS" src="https://img.shields.io/badge/-Node.js-informational?style=plastic&logo=Node.js&logoColor=white&color=rgb(51,153,51)">
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJs-informational?style=plastic&logo=NestJs&logoColor=white&color=rgb(244,35,78)">
-  <img alt="Express" src="https://img.shields.io/badge/-Express-informational?style=plastic&logo=&logoColor=white&color=rgb(0,0,0)">
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=plastic">
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-informational?style=plastic&logo=&logoColor=white&color=rgb(0,0,0)">
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-informational?style=plastic&logo=Firebase&logoColor=white&color=rgb(255,202,40)">
   <img alt="java" src="https://img.shields.io/badge/-Java-informational?style=plastic&logo=Java&logoColor=white&color=rgb(0,115,150)">
@@ -55,4 +55,7 @@ Here are some ideas to get you started:
 </p>
 
 <img align="center" alt="Harvy's GitHub Stats" src="https://github-readme-stats-jet-omega-66.vercel.app
-/api?username=PreAgile&show_icons=true&hide_border=true" />
+/api?username=PreAgile&show_icons=true&hide_border=true&theme=highcontrast" />
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
