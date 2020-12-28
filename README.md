@@ -80,6 +80,7 @@ Here are some ideas to get you started:
             
 ### 🏃‍♂️ Recent Github Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/pbkim0725/algo-study/pull/1) in [pbkim0725/algo-study](https://github.com/pbkim0725/algo-study)
 <!--END_SECTION:activity-->
 
 <br>
