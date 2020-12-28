@@ -77,9 +77,11 @@ Here are some ideas to get you started:
 <img align="center" alt="Harvy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PreAgile&show_icons=true&theme=radical" />
  </p>
 <br>
-
+            
+### 🏃‍♂️ Recent Github Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
 <br>
 
 ### 📭 Contact Me
