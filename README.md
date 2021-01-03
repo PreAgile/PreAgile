@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   Front-End :
   <img alt="React" src="https://img.shields.io/badge/-React-informational?style=plastic&logo=React&logoColor=white&color=rgb(97,218,251)">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-informational?style=plastic&logo=Redux&logoColor=white&color=rgb(118,74,188)">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white">
+<!--   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white"> -->
   <img alt="styled-components" src="https://img.shields.io/badge/_styled_components-informational?style=plastic&logo=styled-components&logoColor=white&color=rgb(219,112,147)">
    <!-- back-end -->
     <br>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-informational?style=plastic&logo=Amazon&logoColor=white&color=rgb(255,153,0)">
    <br>
     <!-- Language & API-->
-    Language & API : 
+    Language & Tool :
   <img alt="typescript" src="https://img.shields.io/badge/-Typescript-informational?style=plastic&logo=Typescript&logoColor=white&color=rgb(0,122,204)">
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-informational?style=plastic&logo=Javascript&logoColor=white&color=rgb(247,223,30)">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-informational?style=plastic&logo=HTML5&logoColor=white&color=rgb(277,79,38)">
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   </p>
   <br>
 
-### 👀  제가 최근에 공부하고있는 기술은 ... <img alt="NestJS" src="https://img.shields.io/badge/-NestJs-informational?style=plastic&logo=NestJs&logoColor=white&color=rgb(244,35,78)"> 
+### 👀  제가 최근에  기술은 ... <img alt="NestJS" src="https://img.shields.io/badge/-NestJs-informational?style=plastic&logo=NestJs&logoColor=white&color=rgb(244,35,78)"> 
 <br>
 
  ### ❓ 저는 ... 
