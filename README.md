@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   </p>
   <br>
 
-### 👀  제가 최근에  기술은 ... <img alt="Spring" src="https://img.shields.io/badge/-Spring-informational?style=plastic&logo=Spring&logoColor=white&color=rgb(109,179,63)">
+### 👀  제가 최근에 관심있는 기술은 ... <img alt="Spring" src="https://img.shields.io/badge/-Spring-informational?style=plastic&logo=Spring&logoColor=white&color=rgb(109,179,63)">
 <br>
 
  ### ❓ 저는 ... 
