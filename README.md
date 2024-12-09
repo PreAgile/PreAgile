@@ -1,5 +1,5 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/PreAgile?pet-id=1" width="1000" height="60"/>
+  <img src="https://render.gitanimals.org/lines/PreAgile?pet-id=1" width="1000" height="160"/>
 </a>
 
 ## 안녕하세요 ! 😁 
