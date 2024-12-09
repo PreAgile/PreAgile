@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/PreAgile?pet-id=1" width="1000" height="60"/>
+</a>
+
 ## 안녕하세요 ! 😁 
 ## 백엔드 개발자 김면수입니다 😎
 <br>
